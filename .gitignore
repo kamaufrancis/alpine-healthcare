@@ -1,0 +1,65 @@
+# ============================================
+# ALPINE HEALTHCARE - .gitignore
+# ============================================
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Logs
+logs/
+*.log
+error_log
+
+# Cache
+cache/
+tmp/
+session/
+storage/framework/cache/
+storage/framework/sessions/
+storage/framework/views/
+
+# Composer
+vendor/
+composer.lock
+
+# Node modules (if any)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Database files
+*.sql
+*.sqlite
+*.db
+database.sql
+alpine_healthcare.sql
+
+# Uploaded files
+public/uploads/
+public/assets/images/uploaded/
+uploads/
+
+# Backup files
+*.bak
+*.backup
+*.old
+*.orig
+
+# OS files
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Project specific
+.htaccess.bak
+.htaccess.sample
+php.ini
