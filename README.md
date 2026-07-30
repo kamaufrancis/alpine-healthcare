@@ -251,7 +251,7 @@ The login page serves as the gateway to the system:
 ## Dashboard Overview
 The Admin Dashboard provides a comprehensive view of clinic operations:
 
-![Admin Dashboard](Screenshots/admin_dash.png)
+![Admin Dashboard](screenshots/admin_dash.png)
 ## Navigation:
 
 | Menu Item | Description |
@@ -268,7 +268,7 @@ The Admin Dashboard provides a comprehensive view of clinic operations:
 ---
 # 👨‍⚕️ Doctor Panel
 ## Doctor Dashboard
-![Doctor Dashboard](Screenshots/doctor_dash.png)
+![Doctor Dashboard](screenshots/doctor_dash.png)
 ## Navigation:
 
 | Menu Item | Description |
@@ -282,7 +282,7 @@ The Admin Dashboard provides a comprehensive view of clinic operations:
 ---
 # 🏥 Reception Panel
 ## Reception Dashboard
-![Reception Dash](Screenshots/reception_dash.png)
+![Reception Dashboard](screenshots/reception_dash.png)
 ## Navigation:
 
 | Menu Item | Description |
@@ -295,7 +295,7 @@ The Admin Dashboard provides a comprehensive view of clinic operations:
 ---
 # 💊 Pharmacy Panel
 ## Pharmacy Dashboard
-![Pharmacy Dashboard](Screenshots/pharmacy_dash.png)
+![Pharmacy Dashboard](screenshots/pharmacy_dash.png)
 ## Navigation:
 
 | Menu Item | Description |
