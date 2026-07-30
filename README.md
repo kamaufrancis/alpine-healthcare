@@ -121,7 +121,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/alpine-healthcare.git
+git clone https://github.com/kamaufrancis/alpine-healthcare.git
 cd alpine-healthcare
 
 # OR download the ZIP from GitHub and extract
@@ -402,7 +402,7 @@ We welcome contributions! Please follow these steps:
 1. Fork the repository
 2. Clone your fork:
   ```bash
-git clone https://github.com/yourusername/alpine-healthcare.git
+git clone https:/github.com/kamaufrancis/alpine-healthcare.git
 ```
 3. Create a feature branch:
 
